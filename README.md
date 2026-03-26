@@ -110,22 +110,48 @@ class RamPrabhu:
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • Java • JavaScript • TypeScript • SQL • C
+<div align="center">
 
-**Frontend & Backend**
-React • Node.js • Express • FastAPI • Flask • Laravel
+### 💻 Languages
 
-**AI / ML**
-Scikit-learn • TensorFlow • OpenCV • NLP
-
-**Databases**
-MySQL • PostgreSQL • MongoDB • Firebase
-
-**IoT**
-ESP32 • Sensors • Embedded Systems • GPS
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ---
+
+### ⚡ Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,laravel" />
+
+---
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" />
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+
+---
+
+### 📡 IoT & Embedded
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sensors-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GPS-1ABC9C?style=for-the-badge"/>
+
+</div>
+
 
 ## 📊 GitHub Analytics
 
