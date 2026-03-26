@@ -73,7 +73,7 @@ class Developer:
     mission     = "Intelligent systems that solve real problems"
 
     fun_fact    = "I debug at midnight and ship by dawn 🌙"
-` ` `
+```
 
 <br clear="right"/>
 
