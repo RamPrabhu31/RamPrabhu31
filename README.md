@@ -207,6 +207,7 @@ class Developer:
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -222,15 +223,12 @@ class Developer:
 <br/>
 
 
-<br/>
-
 <!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/RamPrabhu31/RamPrabhu31/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
-
 
 
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
@@ -259,12 +257,12 @@ class Developer:
 
 <div align="center">
 
-` ` `
+```
 🔭 Building AI + IoT systems that solve real-world problems
 🌱 Not just apps — complete intelligent systems
 ⚡ Exploring: Advanced ML · Mobile Dev (React Native) · Cloud Architecture
 🤝 Open to: Internships · AI Projects · Startup Ideas
-` ` `
+```
 
 </div>
 
