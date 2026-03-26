@@ -211,12 +211,6 @@ class Developer:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamPrabhu31&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A29BFE&text_color=FFFFFF" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamPrabhu31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=RamPrabhu31&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=A29BFE&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
