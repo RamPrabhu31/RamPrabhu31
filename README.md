@@ -1,164 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=V%20Ram%20Prabhu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20IoT%20Innovator&descAlignY=60&descSize=18&descColor=c9b8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1f1c2c,50:928dab,100:1f1c2c&text=V%20Ram%20Prabhu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Innovator&descAlignY=60&descSize=20"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=B48EFF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+%2B+IoT+Systems;From+Code+to+Impact+%F0%9F%9A%80;Full+Stack+Developer+with+Production+Experience;React+%2B+Node+%2B+Python+%2B+Embedded+Systems" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Real-World+AI+%2B+IoT+Systems;From+Ideas+to+Production+🚀;Full+Stack+Developer+Who+Ships;Engineering+Impactful+Solutions"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/5+_Internships-0f0c29?style=for-the-badge&labelColor=302b63&color=7c5cbf"/>
-<img src="https://img.shields.io/badge/AI_+_Full_Stack_+_IoT-0f0c29?style=for-the-badge&labelColor=302b63&color=7c5cbf"/>
-<img src="https://img.shields.io/badge/Open_to_Work-0f0c29?style=for-the-badge&labelColor=302b63&color=7c5cbf"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-00C9A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT%20Builder-FF6F61?style=for-the-badge"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RamPrabhu31&style=flat-square&color=7c5cbf&label=Profile+Views"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/ramprabhu-v-19380b223">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
 <a href="mailto:ramwork31@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/>
+</a>
+<a href="https://linkedin.com/in/ramprabhu-v-19380b223">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
 </a>
 <a href="https://github.com/RamPrabhu31">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
-I’m a **Full Stack Developer & AI Engineer** who builds systems that go beyond demos —
-products that are **deployed, scalable, and used in real-world scenarios**.
+🚀 I build **real-world systems**, not just projects.
 
-I specialize in combining:
+I combine:
 
-* 🤖 **AI / Machine Learning**
-* 🌐 **Full Stack Development**
-* 📡 **IoT & Embedded Systems**
+* 🤖 AI / ML
+* 🌐 Full Stack Development
+* 📡 IoT Systems
 
-to create solutions that are not just functional — but **impactful**.
+to create solutions that are **scalable, intelligent, and actually used**.
 
 ---
 
-## 👨‍💻 Developer Identity
+# ⚡ Developer DNA
 
 ```python
-class RamPrabhu:
+class Developer:
 
-    def __init__(self):
-        self.role = "AI Engineer & Full Stack Developer"
-        self.location = "Chennai, India 🇮🇳"
-        self.education = "B.E CSE (AI) @ Sathyabama (2027)"
+    name = "V Ram Prabhu"
+    role = "AI Engineer + Full Stack Developer"
+    
+    focus = ["AI Systems", "IoT Devices", "Scalable Web Apps"]
 
-        self.builds = [
-            "Production Web Apps",
-            "AI-powered Systems",
-            "IoT Safety Devices"
-        ]
+    philosophy = "Build fast. Build smart. Build real."
 
-        self.tech = ["React", "Node.js", "Python", "FastAPI"]
-
-        self.mission = "Build intelligent systems that solve real problems"
-
-        self.edge = "I ship fast, but I ship right 🚀"
+    current_mission = "Creating intelligent systems that solve real-world problems"
 ```
 
 ---
 
-## 🚀 Experience
+# 🚀 Experience Timeline
 
-* **IGCAR, Kalpakkam** – Built secure **Library Portal with chatbot + tracking**
-* **El Clasico Club** – Developed **real-time turf booking system**
-* **TECHKNOTS** – Created **gesture-based AI application**
-* **IETE / Datamites** – Worked on **ML pipelines (ANN, CNN, NLP)**
-* **SLA Institute** – Built **banking web application (Java)**
+🟣 **IGCAR**
+→ Built Library Portal (Chatbot + Real-time Tracking)
+
+🔵 **El Clasico Club**
+→ Developed Live Turf Booking Platform
+
+🟢 **TECHKNOTS**
+→ Gesture-based AI system (Computer Vision)
+
+🟡 **IETE / Datamites**
+→ ML Models (ANN, CNN, NLP)
+
+⚫ **SLA Institute**
+→ Banking Web Application (Java)
 
 ---
 
-## 🔥 Featured Projects
+# 🔥 Featured Projects
 
-### 🩺 Wear-X (BITS Pilani Hackathon – Semi Finalist)
+### 🩺 Wear-X
 
-* AI wearable for **stroke, Parkinson’s & fall detection**
-* ESP32 + sensors + real-time monitoring
+AI wearable for stroke, fall & Parkinson detection
+ESP32 + Sensors + ML
 
 ### 🪖 Smart Helmet (Team Lead)
 
-* Post-crash analysis system with **GPS + impact detection**
-* Emergency response + safety analytics
+Post-crash detection + GPS emergency alerts
 
 ### 📚 IGCAR Library Portal
 
-* Full-stack system with **chatbot + real-time visitor tracking**
+Full-stack system with chatbot + live tracking
 
 ### 📊 Calorie Prediction App
 
-* ML-powered web app with **REST API + real-time prediction**
+ML-powered full-stack application
 
 ### ✋ Gesture Painter
 
-* Draw using hand tracking via **OpenCV + MediaPipe**
+Draw using hand tracking
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,react,nodejs,express,fastapi,flask,laravel,mysql,postgres,mongodb,firebase" />
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/><br/>
 
----
-
-### ⚡ Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,laravel" />
-
----
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />
-<br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
-
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-
----
-
-### 📡 IoT & Embedded
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sensors-2ECC71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPS-1ABC9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-ScikitLearn-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-DeepLearning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-ComputerVision-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge"/>
 
 </div>
 
+---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RamPrabhu31&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamPrabhu31&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RamPrabhu31&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamPrabhu31&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -168,33 +133,29 @@ class RamPrabhu:
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-* 🥈 Semi-Finalist – **BITS Pilani IoT Hackathon**
-* 🚀 Selected for **Super Dream Placement Batch**
-* 📢 Research Presenter – **REAdIT Conference**
-* 👨‍💻 Team Lead – Smart Helmet Project
-
----
-
-## 💡 What Drives Me
-
-I enjoy working at the intersection of:
-
-> ⚡ AI + 🌍 Real-world systems + 📡 Hardware
-
-If a project involves **intelligence, sensors, and impact** —
-I’m already interested.
+🏅 BITS Pilani IoT Hackathon – Semi Finalist
+🚀 Super Dream Placement Batch
+📢 Research Presenter – REAdIT Conference
+👨‍💻 Team Lead – Smart Helmet
 
 ---
 
-## 🤝 Let’s Build Something
+# 💡 Current Focus
 
-I’m open to:
+> Building **AI + IoT systems** that solve real-world problems
+> Not just apps — **complete systems**
+
+---
+
+# 🤝 Let's Collaborate
+
+💬 Open to:
 
 * Internships
-* AI / Web Development Projects
-* Startup Collaborations
+* AI Projects
+* Startup Ideas
 
 📩 **Email:** [ramwork31@gmail.com](mailto:ramwork31@gmail.com)
 
@@ -202,8 +163,8 @@ I’m open to:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Don’t%20just%20build%20projects.%20Build%20systems%20that%20matter.&author=V%20Ram%20Prabhu"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Build%20things%20that%20matter%20—%20not%20just%20things%20that%20work.&author=V%20Ram%20Prabhu"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f1c2c,50:928dab,100:1f1c2c&section=footer"/>
 
 </div>
