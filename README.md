@@ -1,90 +1,145 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-Hi, I'm <strong>V Ram Prabhu</strong>
+<h1>
+  Hi 👋, I'm <strong>V Ram Prabhu</strong>
 </h1>
 
-<h3>Full Stack Developer | AI Engineer • React • Python • Java</h3>
-
-<div align="left">
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-<p>
-I'm a full-stack developer and AI engineer who loves turning ideas into smooth, functional, and visually engaging digital experiences.
-From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable — with a deep interest in machine learning and IoT.
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/🌍_Chennai,_India-1e1e2e?style=for-the-badge" />
-<a href="mailto:ramwork31@gmail.com"><img src="https://img.shields.io/badge/📧_ramwork31@gmail.com-1e1e2e?style=for-the-badge" /></a>
-<img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_/_AI_Development)-1e1e2e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎓_Sathyabama_University-1e1e2e?style=for-the-badge" />
-</p>
-
-<h3>🌐 Socials</h3>
-
-<p align="left">
-<a href="https://github.com/RamPrabhu31">
-<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/ramprabhu-v-19380b223">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-</a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=RamPrabhu31&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,typescript" />
-<br/><br/>
-</td>
-
-<td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask,laravel,tailwind,bootstrap" />
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
-<br/><br/>
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,jupyter" />
-</td>
-</tr>
-</table>
-</p>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-<br/>
-<img src="https://streak-stats.demolab.com?user=RamPrabhu31&theme=dark&hide_border=true" alt="Streak" />
-</div>
+<h3>
+Full Stack Developer • AI Engineer • IoT Builder
+</h3>
 
 ---
 
-## ❤️ Support Me
+### 🧠 About Me
+
+I'm a **builder at heart** — someone who enjoys turning raw ideas into real-world systems.
+
+From developing **AI-powered applications** to building **IoT safety devices**, I focus on creating products that are:
+
+- ⚡ Fast & scalable  
+- 🧩 Thoughtfully designed  
+- 🔐 Secure & reliable  
+- 🤖 Intelligent  
+
+I don’t just write code — I build **solutions that solve actual problems**.
+
+---
+
+### 📍 Quick Info
+
+- 🌍 Based in **Chennai, India**
+- 🎓 B.E CSE (AI) @ Sathyabama Institute of Science & Technology (2027)
+- 🤝 Open to **Internships & Collaboration (AI / Web / IoT)**
+- 📧 **ramwork31@gmail.com**
+
+---
+
+### 💼 Experience
+
+#### 🏛️ IGCAR – Full Stack Developer Intern
+- Built **Library Gateway Portal** with chatbot + real-time visitor tracking  
+- Focused on **secure modules & scalable backend**
+
+#### ⚽ El Clasico Club – Full Stack Intern
+- Developed **real-time turf booking platform**
+- Implemented **slot management + payment + notifications**
+
+#### 🤖 TECHKNOTS – AI Intern
+- Built **gesture-based digital painting system** using computer vision
+
+#### 📊 Datamites / IETE – Data Science Intern
+- Worked on ML pipelines including **ANN, CNN, NLP, Time Series**
+
+#### ☕ SLA Institute – Java Developer
+- Developed **banking web application** with authentication & transactions  
+
+---
+
+### 🔥 Featured Projects
+
+#### 🧠 Wear-X (BITS Pilani Hackathon – Semi Finalist)
+> Wearable IoT device for **stroke, Parkinson’s & fall detection**
+- ESP32 + sensors + real-time monitoring
+
+#### 🪖 Smart Helmet (Team Lead)
+> Post-crash analysis system with GPS & impact detection  
+- Real-time safety alerts using embedded systems
+
+#### 📚 IGCAR Library Portal
+> Full-stack production system with chatbot + tracking  
+
+#### 🍔 Calorie Prediction App
+> ML-powered web app predicting calories burned  
+- React + FastAPI + Scikit-learn
+
+#### ✋ Gesture Painter
+> Draw using your hand via webcam  
+- OpenCV + MediaPipe
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+`Python` `Java` `JavaScript` `TypeScript` `SQL` `C`
+
+#### ⚙️ Frameworks
+`React` `Node.js` `Express` `FastAPI` `Flask` `Laravel`
+
+#### 🧠 AI / ML
+`Scikit-learn` `TensorFlow` `OpenCV` `MediaPipe` `Pandas` `NumPy`
+
+#### 🗄️ Databases
+`MySQL` `PostgreSQL` `MongoDB` `Firebase`
+
+#### 🔌 IoT & Embedded
+`ESP32` `Arduino` `Sensors` `GPS Modules`
+
+#### 🧰 Tools
+`Git` `VS Code` `Postman` `Figma` `Jupyter`
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/ramprabhu31">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-</a>
+  <img src="https://streak-stats.demolab.com?user=RamPrabhu31&theme=dark&hide_border=true"/>
 </p>
+
+---
+
+### 🏆 Achievements
+
+- 🥈 **Semi-Finalist – BITS Pilani IoT Hackathon**
+- 🚀 Selected for **Super Dream Placement Batch**
+- 📢 Research Presenter – *Next Gen Library Systems*
+- 👨‍💻 Team Lead – Smart Helmet IoT Project
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/RamPrabhu31">GitHub</a> • 
+<a href="https://linkedin.com/in/ramprabhu-v-19380b223">LinkedIn</a> • 
+<a href="https://ramprabhu-v-t77m.onrender.com/">Portfolio</a>
+</p>
+
+---
+
+### 💡 Fun Fact
+
+I enjoy working at the intersection of  
+**AI + IoT + Real-world impact systems**  
+
+If it involves sensors, intelligence, and solving real problems — I’m in.
+
+---
+
+### ❤️ Support
+
+If you like my work:
+
+<a href="https://www.buymeacoffee.com/ramprabhu31">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180"/>
+</a>
