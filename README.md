@@ -206,7 +206,6 @@ class Developer:
 <br/>
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -222,10 +221,6 @@ class Developer:
 
 <br/>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamPrabhu31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
 
 <br/>
 
@@ -236,12 +231,7 @@ class Developer:
 
 <br/>
 
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamPrabhu31&bg_color=0D1117&color=00D9FF&line=A29BFE&point=FF6B6B&area=true&hide_border=true&area_color=A29BFE" width="95%" />
-</div>
 
-<br/>
 
 <!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
