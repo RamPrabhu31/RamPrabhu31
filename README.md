@@ -206,7 +206,7 @@ class Developer:
 <br/>
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4" width="100%"/>
 ## 📊 GitHub Analytics
 
 <div align="center">
